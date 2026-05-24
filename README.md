@@ -1,2 +1,2 @@
 # hill
-Useless shell called hill
+Useless shell curse you when use it 
